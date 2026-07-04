@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Snake](../../raw/output/github-contribution-grid-snake.svg)
+![Github Snake](../../raw/output/github-contribution-grid-snake.svg?color_snake=%23bf5af2&color_dots=%23000000,%233b0764,%236b21a8,%239333ea,%23bf5af2)
+
