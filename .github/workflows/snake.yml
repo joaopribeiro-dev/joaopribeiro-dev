@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#a855f7&color_dots=#000000,#3b0764,#581c87,#7e22ce,#a855f7
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#a855f7&color_dots=#000000,#3b0764,#581c87,#7e22ce,#a855f7
+            dist/github-contribution-grid-snake.svg?color_snake=#bf5af2&color_dots=#000000,#3b0764,#6b21a8,#9333ea,#bf5af2
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#bf5af2&color_dots=#000000,#3b0764,#6b21a8,#9333ea,#bf5af2
 
       # Pega o arquivo gerado e salva em um galho (branch) chamado "output"
       - name: Push github-contribution-grid-snake.svg to the output branch
