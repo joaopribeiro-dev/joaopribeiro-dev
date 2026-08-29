@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is João Pedro, and I am 18 years old. 👋
 
 <!--
 **joaopribeiro-dev/joaopribeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
