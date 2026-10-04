@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![Github Snake](../../raw/output/snake-branca.svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&theme=dark&hide=prs,issues" alt="Estatísticas do João Pedro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&theme=dark&hide=hack" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&theme=dark&hide=prs,issues" height="165" alt="Estatísticas do João Pedro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&theme=dark&hide=hack" height="165" alt="Linguagens mais usadas" />
 </div>
