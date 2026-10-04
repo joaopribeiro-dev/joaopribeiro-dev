@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Github Snake](../../raw/output/snake-branca.svg)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&theme=dark&hide=hack" alt="Linguagens mais usadas" />
