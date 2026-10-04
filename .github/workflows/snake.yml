@@ -13,19 +13,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Gera a animação da cobrinha baseada nos commits do usuário
-      - name: Generate snake-roxa.svg
+      - name: Generate snake-branca.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-roxa.svg?color_snake=#bf5af2&color_dots=#000000,#3b0764,#6b21a8,#9333ea,#bf5af2
-            dist/snake-roxa-dark.svg?color_snake=#bf5af2&color_dots=#000000,#3b0764,#6b21a8,#9333ea,#bf5af2
+            dist/snake-branca.svg?color_snake=#ffffff&color_dots=#000000,#3b0764,#6b21a8,#9333ea,#bf5af2
+            dist/snake-branca-dark.svg?color_snake=#ffffff&color_dots=#000000,#3b0764,#6b21a8,#9333ea,#bf5af2
 
       # Pega o arquivo gerado e salva em um galho (branch) chamado "output"
-      - name: Push snake-roxa.svg to the output branch
+      - name: Push snake-branca.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
