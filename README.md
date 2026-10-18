@@ -37,6 +37,12 @@ I have a solid foundation in structuring and styling web pages. Currently, I am 
 
 ![Github Snake](../../raw/output/snake-branca.svg)
 
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/joaopribeiro-dev/desafios-web?color=ff0000&style=for-the-badge" alt="Top Language">
+  <img src="https://img.shields.io/github/repo-size/joaopribeiro-dev/desafios-web?color=7f00ff&style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/joaopribeiro-dev/desafios-web?color=ffff00&style=for-the-badge" alt="Last Commit">
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&theme=dark&hide=prs,issues" height="165" alt="Estatísticas do João Pedro" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&theme=dark&hide=hack" height="165" alt="Linguagens mais usadas" />
