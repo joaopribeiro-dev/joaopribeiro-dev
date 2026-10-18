@@ -44,6 +44,6 @@ I have a solid foundation in structuring and styling web pages. Currently, I am 
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&bg_color=000000&hide=prs,issues" height="165" alt="Estatísticas do João Pedro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&bg_color=000000&hide=hack" height="165" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&hide=prs,issues" height="165" alt="Estatísticas do João Pedro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&bg_color=000000&title_color=ffffff&hide=hack" height="165" alt="Linguagens mais usadas" />
 </div>
