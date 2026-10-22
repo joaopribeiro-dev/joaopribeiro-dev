@@ -38,8 +38,8 @@ I have a solid foundation in structuring and styling web pages. Currently, I am 
 ![Github Snake](../../raw/output/snake-branca.svg)
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/joaopribeiro-dev/desafios-web?color=000&style=for-the-badge" alt="Top Language">
-  <img src="https://img.shields.io/github/repo-size/joaopribeiro-dev/desafios-web?color=ffffff&style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/languages/count/joaopribeiro-dev/desafios-web?color=000&style=for-the-badge" alt="Language Count">
+  <img src="https://komarev.com/ghpvc/?username=joaopribeiro-dev&color=000000&style=for-the-badge&label=VISUALIZACOES" alt="Profile Views">
   <img src="https://img.shields.io/github/last-commit/joaopribeiro-dev/desafios-web?color=000&style=for-the-badge" alt="Last Commit">
 </p>
 
