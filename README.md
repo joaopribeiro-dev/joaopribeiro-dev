@@ -39,7 +39,7 @@ I have a solid foundation in structuring and styling web pages. Currently, I am 
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/count/joaopribeiro-dev/desafios-web?color=000&style=for-the-badge" alt="Language Count">
-  <img src="https://komarev.com/ghpvc/?username=joaopribeiro-dev&color=000000&style=for-the-badge&label=VISUALIZACOES" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=joaopribeiro-dev&color=000000&style=for-the-badge&label=Views" alt="Profile Views">
   <img src="https://img.shields.io/github/last-commit/joaopribeiro-dev/desafios-web?color=000&style=for-the-badge" alt="Last Commit">
 </p>
 
