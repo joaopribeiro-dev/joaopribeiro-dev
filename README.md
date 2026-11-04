@@ -40,7 +40,7 @@ I have a solid foundation in structuring and styling web pages. Currently, I am 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Senac-Sistemas_para_Internet-000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Estudante Senac">
-  <img src="https://img.shields.io/github/languages/count/joaopribeiro-dev/desafios-web?color=000&style=for-the-badge" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/count/joaopribeiro-dev/desafios-web?color=ffffff&style=for-the-badge" alt="Language Count">
   <img src="https://img.shields.io/github/last-commit/joaopribeiro-dev/desafios-web?color=000&style=for-the-badge" alt="Last Commit">
 </p>
 <div align="center">
