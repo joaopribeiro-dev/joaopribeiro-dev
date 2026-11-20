@@ -39,7 +39,7 @@ I have a solid foundation in structuring and styling web pages. Currently, I am 
 ![Github Snake](../../raw/output/snake-branca.svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Senac-Sistemas_para_Internet-000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Estudante Senac">
+  <img src="https://img.shields.io/badge/Senac-Internet_Systems-000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Senac Student">
   <img src="https://img.shields.io/github/languages/count/joaopribeiro-dev/desafios-web?color=ffffff&style=for-the-badge" alt="Language Count">
   <img src="https://img.shields.io/github/last-commit/joaopribeiro-dev/desafios-web?color=000&style=for-the-badge" alt="Last Commit">
 </p>
@@ -47,6 +47,6 @@ I have a solid foundation in structuring and styling web pages. Currently, I am 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopribeiro-dev&theme=dark&background=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&hide=prs,issues&v=1" height="165" alt="Estatísticas do João Pedro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&bg_color=000000&title_color=ffffff&hide=hack" height="165" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&hide=prs,issues&v=1" height="165" alt="João Pedro's statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&bg_color=000000&title_color=ffffff&hide=hack" height="165" alt="Most used languages" />
 </div>
