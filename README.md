@@ -47,6 +47,6 @@ I have a solid foundation in structuring and styling web pages. Currently, I am 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopribeiro-dev&theme=dark&background=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&hide=prs,issues&v=1" height="165" alt="João Pedro's statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopribeiro-dev&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&,issues&v=1" height="165" alt="João Pedro's statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopribeiro-dev&layout=compact&bg_color=000000&title_color=ffffff&hide=hack" height="165" alt="Most used languages" />
 </div>
